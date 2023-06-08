@@ -1,6 +1,6 @@
 <h2 align="center">
-  Portfolio Website - v2.0<br/>
-  <a href="https://rakib-brown.vercel.app/" target="_blank">soumyajit.tech</a>
+  Portfolio Website - v1.0<br/>
+  <a href="https://rakib-brown.vercel.app/" target="_blank">rakib.my.id</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/readme-img1.png" />
