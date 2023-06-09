@@ -77,3 +77,11 @@ Give a ⭐ if you like this website!
 
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V5JFH4M)
+
+
+
+<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QT54MSJR6QU7Y">
+
+  <img src="https://raw.githubusercontent.com/techctg24/paypal-donate-button/master/paypal-donate-button.png" alt="Donate with PayPal" />
+
+</a>
