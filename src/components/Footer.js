@@ -14,10 +14,10 @@ function Footer() {
     <Container fluid className="footer">
       <Row>
         <Col md="4" className="footer-copywright">
-          <h3>Designed and Developed by RAKIB HOSAIN</h3>
+          <h3>Designed and Developed by EUNUS</h3>
         </Col>
         <Col md="4" className="footer-copywright">
-          <h3>Copyright © {year} RH</h3>
+          <h3>Copyright © {year} EUNUS</h3>
         </Col>
         <Col md="4" className="footer-body">
           <ul className="footer-icons">
@@ -33,7 +33,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://twitter.com/rakibctg786"
+                href="https://twitter.com/eunusctg"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -53,7 +53,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.instagram.com/rakibctg786"
+                href="https://www.instagram.com/eunusctg"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
